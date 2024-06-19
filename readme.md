@@ -52,6 +52,7 @@ You can start by copying the random player in ```brains/random_player/unit_playe
 ## TODO
 - [ ] Introduce more unit types (e.g. warriors, buildings, etc.)
 - [ ] Allow units that can instantiate other units (e.g. summoners, builders, etc.)
+- [ ] Implement a shared memory for the units of the same player to communicate with each other
 - [ ] Abstract the training method to allow for different training algorithms (e.g. Q-learning, DQN, etc.)
 - [ ] Implement Reinforcement Learning strategy for UnitPlayer
 - [ ] Implement Monte Carlo Tree Search strategy for UnitPlayer
