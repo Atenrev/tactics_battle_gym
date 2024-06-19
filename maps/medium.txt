@@ -1,0 +1,13 @@
+20 20
+U 1 2 R A
+U 17 17 B A
+U 2 1 R A
+U 18 17 B A
+U 2 2 R A
+U 17 18 B A
+U 3 3 R A
+U 16 16 B A
+U 3 4 R A
+U 15 16 B A
+U 4 3 R A
+U 16 15 B A
